@@ -1,0 +1,27 @@
+#room{
+    background-color: rgb(0, 0, 0);
+    }
+
+#rooms{
+color: white;
+}
+#wel{
+color: rgb(255, 255, 255);
+}
+#tre{
+color: rgb(65, 100, 255);
+}
+#logout_button{
+float: right;
+background-color: red;
+color: white;
+margin-top: 10px;
+margin-right: 10px;
+padding: 10px;
+border-radius: 10px;
+}
+#trending-rooms{
+background-color: aqua;
+border-radius: 20px;
+font-size: 20px;
+}
